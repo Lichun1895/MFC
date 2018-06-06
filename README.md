@@ -1,2 +1,2 @@
 # MFC
-Simple MFC MSSQL query dialog
+MFC, MS-SQL ... test programs
